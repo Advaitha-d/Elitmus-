@@ -16,7 +16,7 @@ Clue-3: The player must utilise the clue-2 to find clue-3 i.e, finding a hat.By 
 clue-4: to find a knife.
 clue-5: The player has to find the torn cloths where he should solve a puzzel to restore the torn cloths. Here this acts as a major clue in this investigation.
 
+Dead-Ends: If the player does not grasp the clues, they will be unable to advance in the game.If the player clicks on the incorrect item, they will not obtain the correct clue to progress and they may be unable to continue to the furthur clues, which may not result in finding the real culprit.
 
 At the conclusion of this case, the player is then presented with all the suspects and must arrest the one who fulfills each of the criteria gained throughout the investigation.At last the player has two suspects, he has to find the culprit by recalling the clues. If the decision is correct, the case is solved.
 
-Dead-Ends: If the player does not grasp the clues, they will be unable to advance in the game.If the player clicks on the incorrect item, they will not obtain the correct clue to progress and they may be unable to continue to the furthur clues, which may not result in finding the real culprit.
