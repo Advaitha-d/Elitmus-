@@ -1,5 +1,6 @@
 # Elitmus-
 "THE CRIMINAL CHASE"
+
 It is an adventure, hidden object and puzzle game in which the player acts as a detective to solve murder case and advance through the game's story. Crime scene investigation is a key gameplay feature in the criminal chase game.The game begins with a picture of a crime scene and Clue 1.The player must locate relevant clues at crime scenes by clicking items in the scene you must solve clues and puzzles to move through several levels and eventually finish the game and for the advancement to Clue 2, the player must first grasp Clue 1. While investigating cases, the player must also go through a variety of puzzle elements, such as puzzle-style hidden object scenes that must be unscrambled and few simple click-and-drag activities to break up the player's routine, like shuffling through various items, restoring torn or broken items and deciphering numbers, names or locked items.
 
 Soft Skills Evaluation: The puzzle adventure game is intended to measure the soft skills listed below: 
